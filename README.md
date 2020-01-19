@@ -36,18 +36,18 @@
 ---
 ### 介面
 
-![image](https://github.com/JasperSui/HCE-Card-Reader-GUI/tree/master/Image/1.jpg)
+![image](https://github.com/JasperSui/TicTicket-HCE-Card-Reader-GUI/blob/master/Image/1.jpg)
 
 ### 操作及購票流程
 
-![image](https://github.com/JasperSui/HCE-Card-Reader-GUI/tree/master/Image/2.jpg)
+![image](https://github.com/JasperSui/TicTicket-HCE-Card-Reader-GUI/blob/master/Image/2.jpg)
 
 ### 感應加值流程
 
-![image](https://github.com/JasperSui/HCE-Card-Reader-GUI/tree/master/Image/3.jpg)
+![image](https://github.com/JasperSui/TicTicket-HCE-Card-Reader-GUI/blob/master/Image/3.jpg)
 
 ### 驗票流程
 
-![image](https://github.com/JasperSui/HCE-Card-Reader-GUI/tree/master/Image/4.jpg)
+![image](https://github.com/JasperSui/TicTicket-HCE-Card-Reader-GUI/blob/master/Image/4.jpg)
 
 
